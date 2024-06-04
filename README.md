@@ -21,7 +21,7 @@ I hope I will create an app that is popular with people.
         <a href="mailto:narashin895@gmail.com">
             <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
         </a>
-        <a href="https://open.kakao.com/o/sGFzzbsf">
+        <a href="https://open.kakao.com/o/sOrfKovg">
             <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
         </a>
     </div><br>    
