@@ -41,6 +41,7 @@ I hope I will create an app that is popular with people.
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:narashin895@gmail.com">
+        <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">#EA4335</font></font>
         <img src="https://img.shields.io/badge/
         Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
