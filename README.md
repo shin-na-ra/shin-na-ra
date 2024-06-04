@@ -42,7 +42,7 @@ I hope I will create an app that is popular with people.
     <p><strong>Server</strong></p>
     <div>
         <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
-        <img src="https://img.shields.io/badge/python-F8DC75?style=for-the-badge&logo=python&logoColor=#3776AB">
+        <img src="https://img.shields.io/badge/python-37764B?style=for-the-badge&logo=python&logoColor=white">
     </div>
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
