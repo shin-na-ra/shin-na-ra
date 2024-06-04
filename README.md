@@ -21,10 +21,10 @@ I hope I will create an app that is popular with people.
     <p><strong>Database</strong></p>
     <div>
         <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
-        <img src="https://img.shields.io/badge/microsoftsqlserver-CC2927?style=for-the-badge&logo=oracle&logoColor=white"> 
+        <img src="https://img.shields.io/badge/mssql-CC2927?style=for-the-badge&microsoftsqlserver=sqlite&logoColor=white"> 
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
         <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
-        <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=firebase&logoColor=white">
+        <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
     </div>
     <!-- Server -->
     <p><strong>Server</strong></p>
