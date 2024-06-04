@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-### 👋 Hi there! I have experience about 2 years of web development.     
+👋 Hi there! I have experience about 2 years of web development.     
 At present, I have been interested in App develop with Swift and Construct AI through data analysis.
 
 I enjoy walking in street, and reading a book.
