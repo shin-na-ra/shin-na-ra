@@ -5,13 +5,6 @@
 
 Here are some ideas to get you started:
 
-### 👋 Hi there! I have experience about 2 years of web development. At present, I have been interested in App develop with Swift and Construct AI through data analysis.
-
-I enjoy walking in street, and reading a book.
-I hope I will create an app that is popular with people.
-
-
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -21,3 +14,10 @@ I hope I will create an app that is popular with people.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### 👋 Hi there! I have experience about 2 years of web development.     
+At present, I have been interested in App develop with Swift and Construct AI through data analysis.
+
+I enjoy walking in street, and reading a book.
+I hope I will create an app that is popular with people.
